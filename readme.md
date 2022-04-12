@@ -1,4 +1,5 @@
 # C# Markdown parser without renderer. 
+## Look at ConsoleCore project
 Based on Markdig 0.28.1 (12.04.2022).
 <br/>
 <br/>
